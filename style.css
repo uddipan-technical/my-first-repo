@@ -67,6 +67,7 @@ body{
 #colorVelow{
     color: red;
     border: 1px solid red;
+    background-color: #FFEEEE;
 }
 input#otherVelue {
     border: none;
