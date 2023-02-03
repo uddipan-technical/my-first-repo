@@ -1,0 +1,105 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.headSection{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 540px;
+}
+.secTion{
+    
+    padding: 30px 80px;
+
+}
+.headInnerSection{
+    text-align: center;
+    padding: 140px 160px;
+}
+#heroHeading {
+    font-size: 60px;
+    color: #fff;
+    margin: 0;
+    line-height: 71px;
+    padding-bottom: 13px;
+}
+#heroText {
+    margin: 0;
+    color: #fff;
+    font-weight: 300;
+    padding:10px 120px 40px 120px;
+}
+.donateButton {
+    margin-top:30px;
+    color: #fff;
+    text-decoration: none;
+    background-color: #e85555;
+    padding: 15px 30px;
+    border: none;
+}
+
+
+
+#donationText{
+    margin: 0;
+    font-weight: 300;
+    padding:10px 120px 40px 120px;
+}
+.donationSection {
+    text-align: center;
+    padding: 0 142px;
+}
+.velowSection {
+    padding-bottom: 50px;
+}
+.donationVelow {
+    padding: 23px 22px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    background-color: #d3d3d338;
+    margin-right: 8px;
+}
+#colorVelow{
+    color: red;
+    border: 1px solid red;
+}
+input#otherVelue {
+    border: none;
+}
+input#otherVelue {
+    border: none;
+    width: 60%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    font-weight: 200;
+    padding: 10px;
+}
+.donateCard{
+    width: 100%;
+    display: flex;
+}
+.singleCard{
+    width: 33%;
+    text-align: justify;
+    padding: 30px 25px;
+    font-size: 12px;
+    font-weight:400;
+    line-height: 15px;
+}
+.firstCard{
+    background-color: cadetblue;
+    margin-right: 10px;
+}
+.secondtCard{
+    background-color: rgb(190, 117, 117);
+    margin-right: 0 5px;
+}
+.thirdtCard{
+    background-color: bisque;
+    margin-left: 10px;
+}
